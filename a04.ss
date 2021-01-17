@@ -1,312 +1,3 @@
-ASSIGNMENT 04
-Student's Quest ID: p6malhot
-
-*******************************************************************************
-
-Assignment 4 Correctness Test Results
-**** Correctness Test Results *************************************************
-
-76/91   Total Mark
-
- ** Question 1: 5/5
- ** Question 2a: 5/5
- ** Question 2b: 4/4
- ** Question 2c: 5/5
- ** Question 3ai: 6/6
- ** Question 3aii: 5/5
- ** Question 3aiii: 4/4
- ** Question 3aiv: 5/5
- ** Question 3bi: 4/4
- ** Question 3bii: 4/4
- ** Question 3ci: 5/5
- ** Question 3cii: 6/6
- ** Question 3ciii: 8/8
- ** Question 3civ: 3/4
- ** Question 3cv: 7/8
- ** Question 3d: 0/11
- ** Question 4i: 0/1
- ** Question 4ii: 0/1
-
-(Question 1, Test Stepper, 5 marks): Stepping Problem Results: Passed; Parts
-    completed: m07a_recursion_on_numbers_05_required m07a_recursion_on_num-
-    bers_10_required m08a_nested_lists_05_required m08a_nested_lists_10_re-
-    quired m08a_nested_lists_20_required
-(Question 2a, Test 001, 1 marks): Checking euclidean-norm: Passed
-(Question 2a, Test 002, 1 marks): Checking euclidean-norm: Passed
-(Question 2a, Test 003, 1 marks): Checking euclidean-norm: Passed
-(Question 2a, Test 004, 1 marks): Checking euclidean-norm: Passed
-(Question 2a, Test 005, 1 marks): Checking euclidean-norm: Passed
-(Question 2b, Test 001, 1 marks): Checking unit-vector: Passed
-(Question 2b, Test 002, 1 marks): Checking unit-vector: Passed
-(Question 2b, Test 003, 1 marks): Checking unit-vector: Passed
-(Question 2b, Test 004, 1 marks): Checking unit-vector: Passed
-(Question 2c, Test 001, 1 marks): Checking cos-between: Passed
-(Question 2c, Test 002, 1 marks): Checking cos-between: Passed
-(Question 2c, Test 003, 1 marks): Checking cos-between: Passed
-(Question 2c, Test 004, 1 marks): Checking cos-between: Passed
-(Question 2c, Test 005, 1 marks): Checking cos-between: Passed
-(Question 3ai, Test 001, 1 marks): Checking get-x and get-y: Passed
-(Question 3ai, Test 002, 1 marks): Checking get-x and get-y: Passed
-(Question 3ai, Test 003, 1 marks): Checking get-x and get-y: Passed
-(Question 3ai, Test 004, 1 marks): Checking get-x and get-y: Passed
-(Question 3ai, Test 005, 1 marks): Checking get-x and get-y: Passed
-(Question 3ai, Test 006, 1 marks): Checking get-x and get-y: Passed
-(Question 3aii, Test 001, 1 marks): Checking translate-gesture: Passed
-(Question 3aii, Test 002, 1 marks): Checking translate-gesture: Passed
-(Question 3aii, Test 003, 1 marks): Checking translate-gesture: Passed
-(Question 3aii, Test 004, 1 marks): Checking translate-gesture: Passed
-(Question 3aii, Test 005, 1 marks): Checking translate-gesture: Passed
-(Question 3aiii, Test 001, 1 marks): Checking scale-gesture: Passed
-(Question 3aiii, Test 002, 1 marks): Checking scale-gesture: Passed
-(Question 3aiii, Test 003, 1 marks): Checking scale-gesture: Passed
-(Question 3aiii, Test 004, 1 marks): Checking scale-gesture: Passed
-(Question 3aiv, Test 001, 1 marks): Checking get-b-box: Passed
-(Question 3aiv, Test 002, 1 marks): Checking get-b-box: Passed
-(Question 3aiv, Test 003, 1 marks): Checking get-b-box: Passed
-(Question 3aiv, Test 004, 1 marks): Checking get-b-box: Passed
-(Question 3aiv, Test 005, 1 marks): Checking get-b-box: Passed
-(Question 3bi, Test 001, 1 marks): Checking gesture-length: Passed
-(Question 3bi, Test 002, 1 marks): Checking gesture-length: Passed
-(Question 3bi, Test 003, 1 marks): Checking gesture-length: Passed
-(Question 3bi, Test 004, 1 marks): Checking gesture-length: Passed
-(Question 3bii, Test 001, 1 marks): Checking get-points: Passed
-(Question 3bii, Test 002, 1 marks): Checking get-points: Passed
-(Question 3bii, Test 003, 1 marks): Checking get-points: Passed
-(Question 3bii, Test 004, 1 marks): Checking get-points: Passed
-(Question 3ci, Test 001, 1 marks): Checking five-sample: Passed
-(Question 3ci, Test 002, 1 marks): Checking five-sample: Passed
-(Question 3ci, Test 003, 1 marks): Checking five-sample: Passed
-(Question 3ci, Test 004, 1 marks): Checking five-sample: Passed
-(Question 3ci, Test 005, 1 marks): Checking five-sample: Passed
-(Question 3cii, Test 001, 1 marks): Checking move-and-scale: Passed
-(Question 3cii, Test 002, 1 marks): Checking move-and-scale: Passed
-(Question 3cii, Test 003, 1 marks): Checking move-and-scale: Passed
-(Question 3cii, Test 004, 1 marks): Checking move-and-scale: Passed
-(Question 3cii, Test 005, 1 marks): Checking move-and-scale: Passed
-(Question 3cii, Test 006, 1 marks): Checking move-and-scale: Passed
-(Question 3ciii, Test 001, 1 marks): Checking normalize-gesture: Passed
-(Question 3ciii, Test 002, 1 marks): Checking normalize-gesture: Passed
-(Question 3ciii, Test 003, 1 marks): Checking normalize-gesture: Passed
-(Question 3ciii, Test 004, 1 marks): Checking normalize-gesture: Passed
-(Question 3ciii, Test 005, 1 marks): Checking normalize-gesture: Passed
-(Question 3ciii, Test 006, 1 marks): Checking normalize-gesture: Passed
-(Question 3ciii, Test 007, 1 marks): Checking normalize-gesture: Passed
-(Question 3ciii, Test 008, 1 marks): Checking normalize-gesture: Passed
-(Question 3civ, Test 001, 1 marks): Checking geometric-5match: FAILED; expect-
-    ed #t, saw #f
-(Question 3civ, Test 002, 1 marks): Checking geometric-5match: Passed
-(Question 3civ, Test 003, 1 marks): Checking geometric-5match: Passed
-(Question 3civ, Test 004, 1 marks): Checking geometric-5match: Passed
-(Question 3cv, Test 001, 1 marks): Checking five-point-rec: Passed
-(Question 3cv, Test 002, 1 marks): Checking five-point-rec: Passed
-(Question 3cv, Test 003, 1 marks): Checking five-point-rec: Passed
-(Question 3cv, Test 004, 1 marks): Checking five-point-rec: Passed
-(Question 3cv, Test 005, 1 marks): Checking five-point-rec: Passed
-(Question 3cv, Test 006, 1 marks): Checking five-point-rec: Passed
-(Question 3cv, Test 007, 1 marks): Checking five-point-rec: Passed
-(Question 3cv, Test 008, 1 marks): Checking five-point-rec: FAILED; expected
-    #t, saw #f
-(Question 3d, Test 001, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 002, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 003, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 004, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 005, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 006, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 007, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 008, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 009, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 010, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 3d, Test 011, 1 marks): Checking sub-sample, geometric-match, and k-
-    point-rec: FAILED; expected #t, saw #f
-(Question 4i, Test 001, 1 marks): Checking spatial-sub-sample and spatial-rec:
-    FAILED; Exception234 caught when running test: eval:1:0: spatial-sub-sam-
-    ple: this function is not defined
-in: spatial-sub-sample
-(Question 4ii, Test 001, 1 marks): Checking spatial-sub-sample and spatial-
-    rec: FAILED; Exception234 caught when running test: eval:1:0: spatial-rec:
-    this function is not defined
-in: spatial-rec
-
-
-**** Coverage Test Results **********************************************
-
-Q2a: euclidean-norm
------------------------------------------------------
-No tests missing.
-
-Q2b: unit-vector
------------------------------------------------------
-No tests missing.
-
-Q2c: cos-between
------------------------------------------------------
-No tests missing.
-
-
-Does vector.rkt have black highlighting? no
-
-
-
-
-
-**** vector.rkt *****************************************************************
-;; The first three lines of this file were inserted by DrRacket. They record metadata
-;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-beginner-reader.ss" "lang")((modname vector) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor mixed-fraction #f #t none #f () #t)))
-;;**************************************
-;;
-;;     Name: Prajval Malhotra
-;;     Student ID: 20908293
-;;         Assignment 3
-;;
-;;**************************************
-
-;;         Question 2
-
-;; ##################################
-;;
-;;           Part A
-;;
-;; ##################################
-
-;; (euclidean-norm lst) given a list of numbers of arbitrary length,
-;;   produces their euclidean norm
-;; Example:
-(check-within (euclidean-norm (list 1 6 5 1 4)) 8.8 0.1) 
-
-;; euclidean-norm (listof Num) -> Num
-(define (euclidean-norm lst)
-  (cond[(empty? lst) 0] 
-       [(cons? lst) (sqrt (sum-of-squares lst))]))
-
-;; (sum-of-squares lst) helper function that produces the sum
-;;    of squeares of elements of a list
-;; Example:
-(check-expect (sum-of-squares (list 1 2 3)) 14)
- 
-;; sum-of-squares: (list Num) -> Num
-(define (sum-of-squares lst)
-  (cond[(empty? lst) 0]
-       [else (+ (sqr (first lst)) (sum-of-squares (rest lst)))]))
-
-
-;; Tests:
-(check-within (euclidean-norm (cons -15 (cons -17 empty))) 22.6 0.1)
-(check-expect (euclidean-norm (list 3 4)) 5)
-(check-expect (euclidean-norm (list 0)) 0)
-(check-expect (euclidean-norm empty) 0)
-
-
-;; ##################################
-;;
-;;           Part B
-;;
-;; ##################################
-
-;; (unit-vector lst) produces the unit vector of inputted vector
-(define (unit-vector lst)
-  (temp-unit-vector lst lst))
-
-;; Example:
-(check-expect (temp-unit-vector (list 3 4) (list 3 4)) (list 0.6 0.8))
-
-;; temp-unit-vector (list Num Num) -> Num
-;; requires:
-;;   v1 and v2 should be non-empty
-(define (temp-unit-vector lst lst-og)
-  (cond[(empty? lst) empty]
-       [else (cons (/ (first lst) (euclidean-norm lst-og))
-                   (temp-unit-vector (rest lst) lst-og))]))
-
-
-;; Tests:
-(check-within (unit-vector (list 3 4)) (list 0.6 0.8) 0.01)
-(check-within (unit-vector (list 5 5)) (cons 0.7 (cons 0.7 empty)) 0.01)
-(check-within (unit-vector (list -5 -5)) (cons -0.7 (cons -0.7 empty)) 0.1)
-(check-expect (unit-vector (list -3)) (list -1))
-;; ##################################
-;;
-;;           Part C
-;;
-;; ##################################
-
-;; (cos-between v1 v2) produces the dot product of two given vectors
-;;     of arbitrary length
-;; Example:
-(check-within (cos-between (list 3 4) (list 0 6)) 0.8 0.01)
-(check-expect (cos-between empty empty) empty)
-
-;; cos-between: (list Num Num) -> Num
-;; requires:
-;;   v1 and v2 should be non-zero
-;;   v1 and v2 should be of equal degree
-(define (cos-between v1 v2)
-  (cond[(empty? v1) empty]
-       [else(/ (sum-vector v1 v2) (* (dot-prod-denom v1) (dot-prod-denom v2)))]))
-
-;; (sum-vector v1 v2) helper function, produces the sum of two vectors
-;; Example:
-(check-expect (sum-vector (list 10 2 3) (list 3 2 1)) 37)
-
-;; sum-vector: (list Num) (list Num) -> Num
-(define (sum-vector v1 v2)
-  (cond[(empty? v1) 0]
-       [else (+ (* (first v1) (first v2)) (sum-vector (rest v1) (rest v2)))]))
- 
-
-;; (dot-prod-denom v) helper function which produces the denominator
-;;   for calculating the dot product of two given vectors
-;; Example:
-(check-expect (dot-prod-denom (list 3 4)) 5)
-
-;; dot-prod-denom: (list Num) -> Num
-;; requires:
-;;   Vectors must be non-zero
-(define (dot-prod-denom v)
-  (cond[(empty? v) 0]
-       [else (sqrt (+ (sqr (first v)) (sqr (dot-prod-denom (rest v)))))]))
-
-
-;; Tests:
-(check-within (cos-between (list 1 41) (list 1 1)) 0.7 0.1)
-(check-within (cos-between (list 7 8) (list 10 30)) 0.9 0.1)
-(check-within (cos-between (list 2 8) (list 9 2)) 0.4 0.1)
-(check-within (cos-between (list 2 5) (list 5 5)) 0.9 0.1)
-(check-within (cos-between (list 1 40) (list 20 1)) 0.07 0.01)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**** recognize.rkt *****************************************************************
-;; The first three lines of this file were inserted by DrRacket. They record metadata
-;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-beginner-abbr-reader.ss" "lang")((modname recognize) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;;
-;; ***************************************************
-;; Starter Code
-;; ***************************************************
-;;
-
 (require "templates.rkt")
 
 ;; "templates.rkt" provides templates, a TemplateLibrary (see data definition)
@@ -328,16 +19,6 @@ Does vector.rkt have black highlighting? no
 ;;           each Gesture value is not both vertical and horizontal
        
 
-
-
-;; 3a)
-
-;; ###############################
-
-;;          (Q3)(a)
-;;         PART (i)
-
-;; ###############################
 ;; (get-x lst)consumes a point(list) and produces the corresponding
 ;;   x-coordinate
 ;; Example:
@@ -357,13 +38,6 @@ Does vector.rkt have black highlighting? no
 (define (get-y lst)
   (first (rest lst)))
 
-
-;; ###############################
-
-;;         PART (ii)
-
-;; ###############################
-
 ;; (tranlate-gesture gesture-list x-offset y-offset) consumes a gesture
 ;;   an x and y offset and translates the gesture accoridingly
 ;; Example:
@@ -381,12 +55,6 @@ Does vector.rkt have black highlighting? no
                                       x-offset y-offset))]))
 
 
-;; ###############################
-
-;;         PART (iii) 
-
-;; ###############################
-
 ;; (scale-gesture gesture-list x-scale y-scale) produces a scaled
 ;    version of given gesture
 ;; Example:
@@ -403,11 +71,6 @@ Does vector.rkt have black highlighting? no
                    (scale-gesture (rest gesture-list) x-scale y-scale))]))   
 
 
-;; ###############################
-
-;;         PART (iv)
-
-;; ###############################
 
 ;; (get-b-box gesture-list) produces a gesture's bounding box values
 ;; Example:
@@ -482,12 +145,6 @@ Does vector.rkt have black highlighting? no
 
 
 
-;; ###############################
-
-;;         PART 3(b)(i)
-
-;; ###############################
-
 ;; (gesture-length gesture-list) calculates the length of a gesture
 ;; Example:
 (check-expect (gesture-length empty) 0)
@@ -526,12 +183,6 @@ Does vector.rkt have black highlighting? no
 
 
 
-;; ###############################
-
-;;         PART 3(b)(ii)
-
-;; ###############################
-
 ; (get-points gesture index) (wrapper function) consumes a gesture and a list
 ;;    and produces a new listthe points at the index in the given list 
 ; Example:
@@ -562,11 +213,6 @@ Does vector.rkt have black highlighting? no
               (list (list 0 0) (list 0 0) (list 0 0)))
 
 
-;; ###############################
-
-;;         PART 3(c)(i)
-
-;; ###############################
 
 ;;(five-sample gesture) produces a sampling of gesture 5 points
 ;;  the first, n/4th, n/2th, 3n/4th, and last point.
@@ -606,14 +252,6 @@ Does vector.rkt have black highlighting? no
               (list (list 1 1) (list 2 2) (list 3 3) (list 4 4) (list 5 5)))
 
 
-;; ###############################
-
-;;         PART 3(c)(ii)
-
-;; ###############################
-
-
-
 ;;(move-and-scale gesture x-scale y-scale) moves gesture to (0, 0) and
 ;;  scales it by (x-scale)x(y-scale)
 ;; Examples:
@@ -647,15 +285,6 @@ Does vector.rkt have black highlighting? no
               (list (list 0 2) (list 2 0)))
 (check-expect (move-and-scale (list (list 5 5) (list 1 2)) 3 0.5)
               (list (list 12 1.5) (list 0 0)))
-
-
-
-;; 3ciii)
-;; ###############################
-
-;;         PART 3(c)(iii)
-
-;; ###############################
 
 
 (define min-width 30)
@@ -745,15 +374,6 @@ Does vector.rkt have black highlighting? no
                                         (list 213 47))))
               (list (list 0 0) (list 200 28)) 0.1)
 
-
-
-;; 3civ)
-
-;; ###############################
-
-;;         PART 3(c)(iv)
-
-;; ###############################
 
 ;;(geometric-5match gesture1 gesture2) produces the average distance between
 ;;  points in sub-sampled gesture1 and gesture2 after sub-sampling
@@ -907,13 +527,6 @@ Does vector.rkt have black highlighting? no
 (check-expect (five-point-rec testa templates) 'a)
 
 
- 
-;; ###############################;;
-
-;;          Q3(D)
-
-;; ###############################;;
-
 ;(five-point-rec mystrokeg templates)
 ;;(five-point-rec candidate template-library) produces the symbol in
 ;;  template-library closest to candidate
@@ -1030,24 +643,3 @@ Does vector.rkt have black highlighting? no
                                             gesture k))
               (difference-list-k (rest template-gesture) gesture k))]))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**** End of graded assignment. *************************************************
